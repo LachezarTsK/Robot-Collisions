@@ -1,2 +1,2 @@
 # Robot-Collisions
-Challenge at LeetCode.com. Tags: Stack, Sortin, Simulation.
+Challenge at LeetCode.com. Tags: Stack, Sorting, Simulation.
